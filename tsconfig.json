@@ -1,0 +1,1 @@
+{"compilerOptions":{"forceConsistentCasingInFileNames":true,"module":"nodenext","moduleResolution":"nodenext","skipLibCheck":true,"strict":true,"target":"ES2023"},"include":["main.ts","app.ts"]}

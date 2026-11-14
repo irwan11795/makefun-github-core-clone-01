@@ -1,0 +1,1 @@
+{"description":"A standalone GitHub-compatible git forge in one Node process, standard library only.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"github-core-clone-01-forge","scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
